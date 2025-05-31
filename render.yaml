@@ -6,3 +6,4 @@ services:
       npm install
       npx playwright install chromium
     startCommand: npm start
+    plan: free
